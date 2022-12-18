@@ -70,7 +70,7 @@ export default function Display() {
           <div className="flex h-24 w-24 items-center justify-center rounded-md bg-teal-500">
             <span className="font-medium text-white">Box 1</span>
           </div>
-          <div className="flex hidden h-24 w-24 items-center justify-center rounded-md bg-pink-500">
+          <div className="hidden h-24 w-24 items-center justify-center rounded-md bg-pink-500">
             <span className="font-medium text-white">Box 2</span>
           </div>
           <div className="flex h-24 w-24 items-center justify-center rounded-md bg-blue-500">
